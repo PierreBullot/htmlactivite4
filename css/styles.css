@@ -1,0 +1,53 @@
+body {
+	font-family: 'Lato', sans-serif;
+}
+
+header {
+	color:white;
+	background-image: url("http://monsite.loc/html/activite%204/images/nightsky.png");
+	background-color: #cccccc;
+	background-position: center;
+	background-size: cover;
+	height:325px;
+	text-align:center;
+}
+
+header a {
+	text-decoration:none;
+	color:white;
+}
+
+header ul {
+	list-style-type:none;
+	text-align:right;
+	max-width:80%;
+	margin:auto;
+}
+
+header ul span {
+	text-align:right;
+}
+
+header li {
+	display:inline;
+	margin-right:20px;
+}
+
+header button {
+	color:white;
+	background:transparent;
+	border:2px solid white;
+	-webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    padding: 10px 30px;
+    border-radius:4px;
+}
+
+header button:hover {
+	background-color:white;
+	color:black;
+}
+
+h1 {
+	text-transform:uppercase;
+}
