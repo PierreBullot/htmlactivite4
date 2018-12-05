@@ -11,9 +11,9 @@
 	<body>
 		<header>
 			</br>
+			</br>
 			<ul>
-				<span class="far fa-paper-plane">escape</span>
-
+				<li class="logo"><span class="far fa-paper-plane"></span> Escape</li>
 				<li><a href="#">Home</a></li>
 				<li><a href="#">Services</a></li>
 				<li><a href="#">Clients</a></li>
