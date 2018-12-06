@@ -25,14 +25,41 @@
 			<h1>Yup, we can do that.</h1>
 			</br>
 			<button>Learn More</button>
-			</br></br></br>
+			</br></br></br></br>
 		</header>
-		<div>	
-<!--
-			<img src="./images/night.png" alt="Photo by Ryan Heuer on Unsplash"/>
--->
+		<div class="odd">
+			<div class="maincolumn">
+				
+				<p>
+					<span class="titlefirsthalf">Web </span><span class="titlesecondhalf">Development</span>
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mattis nunc sed blandit libero volutpat sed cras. 
+					</br></br>
+					Neque egestas congue quisque egestas diam in arcu cursus. Faucibus in ornare quam viverra orci sagittis eu.
+				</p>
+			</div>	
 		</div>
-		test
+		<div class="even">
+			<div class="maincolumn"></div>
+			branding
+		</div>
+		<div class="odd">
+			<div class="maincolumn"></div>
+			menu	
+		</div>
+		<div class="even">
+			<div class="maincolumn"></div>
+			client	
+		</div>
+		<div class="odd">
+			<div class="maincolumn"></div>
+			logos	
+		</div>
+		<div>
+			<div class="maincolumn"></div>
+			team	
+		</div>
+		<footer>
+		</footer>
 	</body>
     	<script src="js/scripts.js"></script>
 </html>	

@@ -60,4 +60,31 @@ h1 {
 	font-weight:bold;
 }
 
+.odd {
+	background-color:#FFFFFF;
+}
 
+.even {
+	background-color:#FAFAFA;
+}
+
+.maincolumn {
+	max-width:80%;
+	margin:auto;	
+}
+
+.titlefirsthalf {
+	font-weight:normal;
+	font-size:30px;
+}
+
+.titlesecondhalf {
+	font-weight:bold;
+	font-size:30px;
+	
+}
+
+.titlesecondhalf::after {
+	content:"\a";
+	white-space: pre;
+}
